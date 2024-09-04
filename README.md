@@ -93,4 +93,3 @@ This project does not include an executable (.exe) file. It is a web-based platf
   ```javascript
     const socket = io('http://[your-server-address]:8000/');
   ```
-```
