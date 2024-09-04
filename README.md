@@ -37,9 +37,9 @@ Follow these steps to set up and run the platform locally.
 
 4. Install Required Packages
 
-Install the required packages from the requirements.txt file:
+- Install the required packages from the requirements.txt file:
 
-pip install -r requirements.txt
+  - pip install -r requirements.txt
 
 5. Setup MySQL Database
 
